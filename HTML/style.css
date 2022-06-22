@@ -20,3 +20,19 @@ nav{
     background: black cover no-repeat;
     background-image: url('../IMG/Livres/Test.jpg');
 }
+
+.CarouselDesign{
+    margin-top: 56px;
+    position: relative;
+}
+
+.carousel-item img{
+    max-height:calc(100vh - 56px);
+    height: 100%;
+    width: auto !important;
+    margin: auto auto;
+}
+
+.index-body{
+    background-image: url('../IMG/Background.jpg');
+}
