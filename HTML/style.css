@@ -23,7 +23,7 @@ nav{
 }
 
 .CarouselDesign{
-    margin-top: 56px;
+    margin-top: 112px;
     position: relative;
 }
 
@@ -32,6 +32,10 @@ nav{
     height: 100%;
     width: auto !important;
     margin: auto auto;
+}
+
+.carousel-inner{
+    height: 80vh;
 }
 
 .index-body{
