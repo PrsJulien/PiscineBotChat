@@ -31,7 +31,7 @@ nav{
     max-height:calc(100vh - 56px);
     height: 80vh;
     width: auto !important;
-    margin: auto auto;
+    margin: auto;
 }
 
 .carousel-inner{
